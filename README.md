@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi there! I'm Jesus — Software Engineering Student</h1>
+  <h1>👋 Hi there! I'm Jesus — Software Engineering</h1>
 </div>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
