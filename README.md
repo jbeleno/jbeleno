@@ -10,7 +10,7 @@
 
 ### 💡 Who am I?
 
-I'm a Software Engineering student with an **innovative and constructive mindset**, driven by **curiosity** and a passion for learning. I enjoy solving **puzzles**, tackling **big challenges**, exploring **mathematics**, and enjoying or creating **music** 🎵. I’m always looking to connect ideas and turn problems into opportunities.
+I'm a Software Engineering with an **innovative and constructive mindset**, driven by **curiosity** and a passion for learning. I enjoy solving **puzzles**, tackling **big challenges**, exploring **mathematics**, and enjoying or creating **music** 🎵. I’m always looking to connect ideas and turn problems into opportunities.
 
 ### 👨‍💻 What I’m passionate about
 
