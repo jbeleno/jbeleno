@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jesus-beleno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open_to-Remote_·_Contracts_·_Freelance-2ea44f?style=flat-square" />
-  <a href="#-play-with-me"><img src="https://img.shields.io/badge/psst…_there's_a_game_below-🎮-8957e5?style=flat-square" /></a>
 </p>
 
 <p align="center">
@@ -61,19 +60,6 @@
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux,vercel" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,astro,threejs" /> |
 
-### 🎮 Play with me
-
-<p align="center"><sub>A tic-tac-toe game played by everyone who visits this profile. Each click opens an issue, a GitHub Action plays the bot's move and rewrites this README.</sub></p>
-
-<!-- TTT:START -->
-<p align="center"><b>Your move.</b> Click any empty cell. You're ❌ (together with everyone who visits), the bot is ⭕.</p>
-
-<table align="center"><tr><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C0&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 0"/></a></td><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C1&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 1"/></a></td><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C2&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 2"/></a></td></tr><tr><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C3&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 3"/></a></td><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C4&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 4"/></a></td><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C5&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 5"/></a></td></tr><tr><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C6&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 6"/></a></td><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C7&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 7"/></a></td><td><a href="https://github.com/jbeleno/jbeleno/issues/new?title=ttt%7Cmove%7C8&body=Just%20press%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20A%20bot%20will%20play%20and%20update%20the%20README%20in%20~30%20seconds."><img src="game/assets/empty.svg" width="84" alt="play 8"/></a></td></tr></table>
-
-<p align="center"><sub>Game #1 · all time: <b>0</b> human wins · <b>0</b> bot wins · <b>0</b> draws · 0 moves played</sub></p>
-
-<p align="center"><sub>Last moves: <i>no moves yet, be the first</i><br/>Top players: <i>nobody yet</i></sub></p>
-<!-- TTT:END -->
 
 ---
 
